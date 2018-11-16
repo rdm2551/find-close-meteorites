@@ -5,4 +5,9 @@ Training project that locates close meteorites
 
 This project requires Python 3 and the requests package. Added
 
-`python3 find_meteors.py`
+First install pipenv. Then:
+
+```
+pipenv install
+pipenv run "python find_meteors.py"
+```
